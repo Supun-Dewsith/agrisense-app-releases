@@ -16,7 +16,7 @@
 
 ## ⬇️ Download & Installation
 
-[![Download APK](https://img.shields.io/badge/Download-agrisense--1.0.0.apk-2ea44f?style=for-the-badge&logo=android&logoColor=white)](../../releases/download/v1.0.0/agrisense-1.0.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-AgriSense--v1.0.0.apk-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Supun-Dewsith/agrisense-app-releases/releases/download/v1.0.0/AgriSense-v1.0.0.apk)
 
 ### How to Install on Android
 
