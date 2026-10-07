@@ -3,8 +3,8 @@
 > **Smart Agricultural Management & AI-Powered Field Assistance in your pocket.**
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](#)
-[![Build Status](https://img.shields.io/badge/APK-Ready%20for%20Download-brightgreen?style=for-the-badge)](#)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](../../releases/latest)
+[![Build Status](https://img.shields.io/badge/APK-Ready%20for%20Download-brightgreen?style=for-the-badge)](../../releases/latest)
 
 ---
 
@@ -16,13 +16,15 @@
 
 ## ⬇️ Download & Installation
 
+[![Download APK](https://img.shields.io/badge/Download-agrisense--1.0.0.apk-2ea44f?style=for-the-badge&logo=android&logoColor=white)](../../releases/download/v1.0.0/agrisense-1.0.0.apk)
+
 ### How to Install on Android
 
-1. Go to the **[Releases](../../releases)** section of this repository.
-2. Download the latest `.apk` asset file (e.g., `agriSense-ai-v1.0.0.apk`).
-3. Tap the downloaded file on your Android device.
-4. If prompted, enable **"Install unknown apps"** for your browser or file manager:
-   - Go to **Settings** > **Apps** > **Special App Access** > **Install Unknown Apps** > Allow for your browser/file manager.
+1. Open the **[Latest Release](../../releases/latest)** page (or click the green download badge above).
+2. Download the asset file: `agrisense-1.0.0.apk`.
+3. Open the downloaded `.apk` file on your Android device.
+4. If prompted to allow installation from your browser or file manager:
+   - Go to **Settings** > **Apps** > **Special App Access** > **Install Unknown Apps** and toggle **Allow from this source**.
 5. Tap **Install** and launch **agriSense ai**.
 
 ---
